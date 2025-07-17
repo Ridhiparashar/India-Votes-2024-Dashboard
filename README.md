@@ -25,25 +25,25 @@ data on 8000+  grocery items(products) available including their other details l
 
 1. Executive Summary of Results:
 
-   1.1. NDA Alliance: Clearly displays total seats won (292) and their percentage of the total (54%), featuring prominent leaders and party symbols.
+    1.1. NDA Alliance: Clearly displays total seats won (292) and their percentage of the total (54%), featuring prominent leaders and party symbols.
 
-   1.2. I.N.D.I.A Alliance: Presents total seats won (234) and their percentage of the total (43%), alongside key figures and party symbols.
+    1.2. I.N.D.I.A Alliance: Presents total seats won (234) and their percentage of the total (43%), alongside key figures and party symbols.
 
-   1.3. Other/Independent: Summarizes seats won (17) and their percentage (3%), representing the remaining mandates.
+    1.3. Other/Independent: Summarizes seats won (17) and their percentage (3%), representing the remaining mandates.
 
 2. Crucial Election Dates: Provides quick reference to the Voting Dates (FRI, 19 APR to SAT, 01 JUN 2024) and the Counting Date/Result Date (TUE, 04 JUN 2024).
 
 3. National Constituency Overview: A visual representation of the 543 total parliamentary constituencies on an India map, giving geographical context to the election scale.
-
+ 
 4.Detailed Alliance Breakdowns:
 
-   4.1. NDA Alliance Parties: Lists the 14 constituent parties of the NDA, showcasing individual seat contributions (e.g., BJP: 240, TDP: 16, JD(U): 12, etc.).
+    4.1. NDA Alliance Parties: Lists the 14 constituent parties of the NDA, showcasing individual seat contributions (e.g., BJP: 240, TDP: 16, JD(U): 12, etc.).
 
-   4.2. I.N.D.I.A Alliance Parties: Provides a granular view of the 20 constituent parties of the I.N.D.I.A Alliance, detailing their respective seat counts (e.g., INC: 99, SP: 37, AITC: 29, etc.).
+    4.2. I.N.D.I.A Alliance Parties: Provides a granular view of the 20 constituent parties of the I.N.D.I.A Alliance, detailing their respective seat counts (e.g., INC: 99, SP: 37, AITC: 29, etc.).
 
-5. Intuitive Visuals and User-Friendly Interface: The dashboard utilizes clear party logos, prominent seat counts, and a well-organized layout to ensure easy understanding and navigation of the election data.
+ 5. Intuitive Visuals and User-Friendly Interface: The dashboard utilizes clear party logos, prominent seat counts, and a well-organized layout to ensure easy understanding and navigation of the election data.
 
-6. Data-Driven Insights: Enables quick identification of the leading alliances, the strength of their internal party compositions, and the overall mandate from the 2024 General Election.
+ 6. Data-Driven Insights: Enables quick identification of the leading alliances, the strength of their internal party compositions, and the overall mandate from the 2024 General Election.
 
 
 ## 5. Screenshots/Demos
