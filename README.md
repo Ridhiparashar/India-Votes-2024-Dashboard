@@ -4,7 +4,7 @@
 The "India General Election Result - 2024: Overview Analysis" dashboard focuses on breaking down the results by major political alliances (NDA, I.N.D.I.A Alliance) and other/independent parties. It provides a quick summary of seat counts, percentage of total seats, and detailed breakdowns of the constituent parties within each alliance.
 
 ## 2. Tech stack
-the dashboard was built with the following tools and technologies:
+The Dashboard was built with the following Tools and Technologies:
 
 -> POWER BI DESKTOP:-main data visualisation platform used for report creation.
 
