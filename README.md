@@ -17,9 +17,7 @@ The Dashboard was built with the following Tools and Technologies:
 -> File Format:-.pbix for development and.png for dashboard previews.
 
 ## 3. Data source
-source:-blinkitindia.com
-
-data on 8000+  grocery items(products) available including their other details like the outlet size,location and type ,the total sales of diffrent items and their total fat content and item weight in tables with the blinkit accross the nation .
+source:-Kaggle
 
 ## 4. Features/Highlights
 
